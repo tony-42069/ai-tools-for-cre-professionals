@@ -22,6 +22,7 @@ In the rapidly evolving world of commercial real estate, leveraging cutting-edge
 
 ### Magnific AI 🔍
 **What it does:** An advanced AI upscaler and enhancer that can add details to images based on text prompts.
+
 **How you'll use it:** Enhance low-quality property photos for marketing materials. Improve images of older properties, making them more appealing in online listings and offering memorandums (OMs).
 
 ### Ideogram 📝
