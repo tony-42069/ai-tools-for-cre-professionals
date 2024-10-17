@@ -1,4 +1,4 @@
-e# AI Tools for Commercial Real Estate Professionals 🏢
+# AI Tools for Commercial Real Estate Professionals 🏢
 
 In the rapidly evolving world of commercial real estate, leveraging cutting-edge AI tools can give brokers and investors a significant competitive advantage. This curated list of AI-powered resources can transform various aspects of your work.
 
@@ -15,124 +15,149 @@ In the rapidly evolving world of commercial real estate, leveraging cutting-edge
 
 ## 1. Visual Content Creation and Enhancement
 
-### [KREA AI - Image Gen](https://www.krea.ai) 🖼️
+### [KREA AI - Image Gen](https://www.krea.ai/home) 🖼️
 **What it does:** Generates and enhances images and videos with AI technology.
+
 **How you'll use it:** Create compelling visuals of potential property developments or renovations. Generate images showing how a vacant lot could look with a new building, or visualize how an existing property might appear after proposed improvements.
 
-### Magnific AI 🔍
+### [Magnific AI](https://magnific.ai) 🔍
 **What it does:** An advanced AI upscaler and enhancer that can add details to images based on text prompts.
+
 **How you'll use it:** Enhance low-quality property photos for marketing materials. Improve images of older properties, making them more appealing in online listings and offering memorandums (OMs).
 
-### Ideogram 📝
+### [Ideogram](https://ideogram.ai/t/explore) 📝
 **What it does:** An AI image generation tool specializing in creating high-quality images with text integration.
+
 **How you'll use it:** Create property signage mock-ups, "For Lease" or "For Sale" banners, and marketing materials where text needs to be seamlessly integrated into images.
 
-### Luma Dream Machine 🎥
+### [Luma Dream Machine](https://lumalabs.ai/dream-machine) 🎥
 **What it does:** An AI video generator that turns text into stunning videos.
+
 **How you'll use it:** Create engaging property tour videos or neighborhood overview videos from text descriptions, particularly useful for properties in development or showcasing surrounding areas.
 
-### BlinkShot ⚡
+### [BlinkShot](https://www.blinkshot.io) ⚡
 **What it does:** A real-time AI image generator.
+
 **How you'll use it:** Quickly create conceptual images for property development ideas or generate visuals for marketing materials on the fly during client meetings.
 
-### Astria 🌟
+### [Astria](https://www.astria.ai) 🌟
 **What it does:** A platform for creating custom images using AI.
+
 **How you'll use it:** Generate unique, eye-catching visuals for property marketing campaigns or create custom images for social media posts to attract potential investors.
 
-### Qreates 📸
+### [Qreates](https://qreates.com) 📸
 **What it does:** An AI tool for creating high-quality product images.
+
 **How you'll use it:** Create professional-looking visuals of property features, amenities, or conceptual images of future developments.
 
 ## 2. Video Creation and Editing
 
-### HeyGen 🎬
+### [HeyGen](https://app.heygen.com/create-v3/b87c8982a11743f08749f8e6f4e05734?tab=template) 🎬
 **What it does:** An AI spokesperson video creator that turns scripts into talking videos with customizable AI avatars.
+
 **How you'll use it:** Create personalized property pitch videos or market updates featuring AI-generated spokespersons, allowing you to scale your personalized outreach efforts.
 
-### PixVerse 📹
+### [PixVerse](https://app.pixverse.ai/home) 📹
 **What it does:** An AI video creation platform for generating videos from text.
+
 **How you'll use it:** Transform written property descriptions or market analysis reports into engaging video content for social media or client presentations.
 
-### OpusClip ✂️
+### [OpusClip](https://www.opus.pro) ✂️
 **What it does:** An AI-powered tool for repurposing long videos into shorter, high-quality clips.
+
 **How you'll use it:** Turn lengthy property tour videos or market overview presentations into bite-sized content for social media platforms, increasing engagement and reach.
 
 ## 3. Document Processing and Analysis
 
-### LlamaParse 🦙
+### [LlamaParse](https://llamahub.ai/l/readers/llama-index-readers-llama-parse?from=) 🦙
 **What it does:** A tool for extracting information from various document types.
+
 **How you'll use it:** Quickly analyze lease agreements, property reports, or market studies. Extract key information from numerous documents to compile comprehensive property dossiers or market analysis reports.
 
-### Pdf2audio 🎧
+### [Pdf2audio](https://huggingface.co/spaces/lamm-mit/PDF2Audio) 🎧
 **What it does:** A tool that converts PDF documents to audio.
+
 **How you'll use it:** Convert lengthy market reports or property documents into audio files, allowing you to review information while commuting or multitasking.
 
 ## 4. Data Analysis and Market Research
 
-### Alpha Vantage 📈
+### [Alpha Vantage](https://www.alphavantage.co/support#api-key) 📈
 **What it does:** Provides free APIs for real-time and historical financial data.
+
 **How you'll use it:** Access financial market data to analyze economic trends affecting commercial real estate. Track stock performance of REITs or potential corporate tenants.
 
-### Julius AI 🤖
+### [Julius AI](https://julius.ai) 🤖
 **What it does:** An AI data analyst for analyzing and visualizing data.
+
 **How you'll use it:** Analyze property performance data, create visualizations of market trends, or build forecasting models for property values and rental rates.
 
-### Kaggle 🏆
+### [Kaggle](https://www.kaggle.com) 🏆
 **What it does:** A platform for data science resources and competitions.
+
 **How you'll use it:** Access datasets related to real estate markets, economic indicators, or demographic trends. Utilize shared code and analysis techniques to improve your own market research capabilities.
 
 ## 5. AI-Assisted Communication and Presentation
 
-### Claude 🧠
+### [Claude](https://claude.ai/new) 🧠
 **What it does:** An AI assistant capable of engaging in various tasks and conversations.
+
 **How you'll use it:** Draft property descriptions, create market analysis reports, or get help with complex financial calculations related to property investments.
 
-### ChatGPT 💬
+### [ChatGPT](https://chatgpt.com) 💬
 **What it does:** A conversational AI system for various tasks.
+
 **How you'll use it:** Generate ideas for marketing copy, create outlines for property pitches, or get quick answers to industry-specific questions.
 
-### Gamma 🎨
+### [Gamma](https://gamma.app/signup) 🎨
 **What it does:** An AI-powered platform for creating engaging presentations.
+
 **How you'll use it:** Quickly create visually appealing investor presentations or property pitches with minimal design work.
 
-### PopAi 🎭
+### [PopAi](https://www.popai.pro) 🎭
 **What it does:** A multi-functional AI tool for chatting, reading, writing, and presenting.
+
 **How you'll use it:** Utilize its various functions to streamline the creation of property reports, market analyses, and client presentations.
 
-### Perplexity 🔍
+### [Perplexity](https://www.perplexity.ai) 🔍
 **What it does:** An AI-powered answer engine for real-time information.
+
 **How you'll use it:** Quickly research market trends, property regulations, or local economic data without extensive manual searching.
 
 ## 6. Audio and Voice Tools
 
-### Deepgram Voice AI 🗣️
+### [Deepgram Voice AI](https://deepgram.com) 🗣️
 **What it does:** Offers speech-to-text and text-to-speech APIs.
+
 **How you'll use it:** Transcribe client meetings or property tours for easy reference. Create voiceovers for property videos or audio descriptions for virtual tours.
 
-### ElevenLabs 🌐
+### [ElevenLabs](https://elevenlabs.io) 🌐
 **What it does:** An AI voice generator supporting multiple languages.
+
 **How you'll use it:** Create multilingual property descriptions or market updates to cater to international investors. Generate professional voiceovers for property showcase videos.
 
 ## 7. 3D Modeling and Virtual Tours
 
-### Meshy 🏙️
+### [Meshy](https://www.meshy.ai) 🏙️
 **What it does:** A 3D AI toolkit for transforming text or images into 3D models.
+
 **How you'll use it:** Create 3D models of properties or interior spaces from floor plans or descriptions, enabling virtual property tours or showcasing potential renovations.
 
 ## 8. Specialized Tools
 
-### AI Voice Agents (a16z) 🗣️
+### [AI Voice Agents (a16z)](https://gamma.app/embed/a16z-Real-Time-Conversational-Voice-AI--m3v486p98gt7jol?mode=doc#card-49z1vyxpkzid0pu) 🗣️
 **What it does:** An overview of AI-powered voice agent technologies.
+
 **How you'll use it:** Explore possibilities for implementing AI voice assistants for handling initial client inquiries, scheduling property viewings, or providing basic property information 24/7.
 
-### Napkin AI 📊
+### [Napkin AI](https://www.napkin.ai) 📊
 **What it does:** A visual AI tool for business storytelling.
+
 **How you'll use it:** Transform complex market data or property information into visually appealing infographics or presentations, making it easier for clients to understand key selling points.
 
 ## How It Works
 
 1. Browse through the categories to find tools relevant to your needs.
-2. Click on the tool names to visit their websites (links to be added).
+2. Click on the tool names to visit their websites.
 3. Experiment with different tools to enhance various aspects of your CRE work.
 
 ## Contributing
