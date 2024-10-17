@@ -17,6 +17,7 @@ In the rapidly evolving world of commercial real estate, leveraging cutting-edge
 
 ### KREA AI - Image Gen 🖼️
 **What it does:** Generates and enhances images and videos with AI technology.
+
 **How you'll use it:** Create compelling visuals of potential property developments or renovations. Generate images showing how a vacant lot could look with a new building, or visualize how an existing property might appear after proposed improvements.
 
 ### Magnific AI 🔍
