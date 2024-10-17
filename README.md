@@ -1,4 +1,4 @@
-# AI Tools for Commercial Real Estate Professionals 🏢
+e# AI Tools for Commercial Real Estate Professionals 🏢
 
 In the rapidly evolving world of commercial real estate, leveraging cutting-edge AI tools can give brokers and investors a significant competitive advantage. This curated list of AI-powered resources can transform various aspects of your work.
 
@@ -15,7 +15,7 @@ In the rapidly evolving world of commercial real estate, leveraging cutting-edge
 
 ## 1. Visual Content Creation and Enhancement
 
-### KREA AI - Image Gen 🖼️
+### [KREA AI - Image Gen](https://www.krea.ai) 🖼️
 **What it does:** Generates and enhances images and videos with AI technology.
 **How you'll use it:** Create compelling visuals of potential property developments or renovations. Generate images showing how a vacant lot could look with a new building, or visualize how an existing property might appear after proposed improvements.
 
